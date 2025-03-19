@@ -1,6 +1,7 @@
 # Hackathon Website
 
 A beautiful, responsive website for "The World's Largest Hackathon" built with React, TypeScript, and Tailwind CSS.
+See the deployed version: https://lighthearted-custard-8dec8b.netlify.app/
 
 ## 📋 Features
 
